@@ -9,4 +9,4 @@
 <h6>bamazonSupervisor.js</h6>
 <p>This app allows the supervisor to see product sales by department and add a new department.</p>
 
-<p>View <a href="#">this</a> recording to see the application functionality.</p>
+<p>View <a href="https://drive.google.com/file/d/1bTfvNdyUhy4aVqVd2-C7h7XD6wUo-URS/view">this</a> recording to see the application functionality.</p>
